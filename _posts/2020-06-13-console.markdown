@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Katacoda Console"
+date:   2020-06-13 08:00:00 +0100
+categories: information
+---
+Here's a handy Ubuntu console for testing stuff:
+
+<script src="//katacoda.com/embed.js"></script>
+<div id="inline-terminal-1" data-katacoda-env="bash" style="height: 400px;"></div>
